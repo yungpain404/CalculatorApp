@@ -1,21 +1,49 @@
-Calculator – Android App
+# Calculator – Android App
 
-Ứng dụng Calculator là một app Android đơn giản hỗ trợ người dùng thực hiện các phép tính toán cơ bản trong đời sống hàng ngày. Được xây dựng bằng Java trên nền Android Studio, Calculator mang đến sự tiện lợi cho sinh viên, nhân viên văn phòng hay bất kỳ ai cần một công cụ tính toán nhanh chóng và chính xác.
+*Ứng dụng Calculator là một app Android đơn giản hỗ trợ người dùng thực hiện các phép tính toán cơ bản trong đời sống hàng ngày. Được xây dựng bằng Java trên nền Android Studio, Calculator mang đến sự tiện lợi cho sinh viên, nhân viên văn phòng hay bất kỳ ai cần một công cụ tính toán nhanh chóng và chính xác.*
 
-🚀 Tính năng
+## 🚀 Tính năng
 
-Thực hiện các phép toán cơ bản: Cộng (+), Trừ (−), Nhân (×), Chia (÷)
+  * Thực hiện các phép toán cơ bản: Cộng (+), Trừ (−), Nhân (×), Chia (÷)
 
-Xử lý phép tính với nhiều số hạng và toán tử liên tiếp
+  * Xử lý phép tính với nhiều số hạng và toán tử liên tiếp
 
-Hiển thị kết quả tức thì và chính xác
+  * Hiển thị kết quả tức thì và chính xác
 
-Giao diện trực quan, dễ thao tác
+  * Giao diện trực quan, dễ thao tác
 
-Thiết kế gọn nhẹ, chạy mượt trên các thiết bị Android
+  * Thiết kế gọn nhẹ, chạy mượt trên các thiết bị Android
 
-🛠️ Công nghệ sử dụng
+## 🛠️ Công nghệ sử dụng
 
-Ngôn ngữ: Java
+  * Ngôn ngữ: Java
 
-IDE: Android Studio
+  * IDE: Android Studio
+
+📷 Screenshot :
+
+<img width="379" height="838" alt="image" src="https://drive.google.com/file/d/1YsbtHWw_Cvl7pxM3f4GlimXlk04t9Jt7/view?usp=drive_link" />
+<img width="379" height="842" alt="image" src="https://drive.google.com/file/d/1TlCELRqg6r0dDG-rO1B3UikK354eRyIH/view?usp=drive_link" />
+<img width="380" height="840" alt="image" src="https://drive.google.com/file/d/1FPv-GFBFFFJt_-XBdVr1Fr-HtiVpG4Py/view?usp=drive_link" />
+<img width="378" height="841" alt="image" src="https://drive.google.com/file/d/1nWy-OLGyDXNmUB_NZl2vUEkCQSe7F5Qd/view?usp=drive_link" />
+
+
+## 📦 Cài đặt & chạy ứng dụng
+
+* Clone repository:
+
+  ` git clone https://github.com/yungpain404/CalculatorApp `
+
+* Mở bằng Android Studio:
+
+  a. Chọn File > Open
+
+  b. Trỏ đến thư mục dự án 
+
+  c. Build project
+
+  d. Nhấn Sync Project with Gradle Files
+
+  e. Chạy trên thiết bị ảo (AVD) hoặc thiết bị thật
+
+
